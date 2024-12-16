@@ -1,0 +1,7 @@
+<HTML>
+  <HEAD>
+     <TITLE> Общая информация </TITLE>
+  </HEAD>
+  <BODY>
+  </BODY>
+</HTML> 
